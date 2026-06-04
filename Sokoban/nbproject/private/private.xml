@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/Main/Main.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/Main/GamePanel.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/entity/Player.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/Main/Level.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/tile/TileManager.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/tile/Tile.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/entity/Entity.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/Main/CollisionChecker.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/object/SuperObject.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/object/Box.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/object/End.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/Main/AssetSetter.java</file>
+            <file>file:/C:/Users/7nath/OneDrive/Documents/NetBeansProjects/Sokoban/src/Main/KeyHandler.java</file>
+        </group>
+    </open-files>
+</project-private>
