@@ -11,4 +11,8 @@ Once the box is on the end point, the level will continue.
 To Move:
 W,A,S,D (assuming how they work)
 
+How to run the game:
+Download this file and put it into your IDE may it be VSCode, IntelliJ IDEA, or Apache Netbeans. Put it and simply run it without debugging.
+(Its that simple.)
+
 Yeah, thats about it.
